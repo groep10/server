@@ -1,0 +1,76 @@
+<html>
+
+
+<head>
+
+<title> Dashboard </title>
+
+<script type="text/javascript" src="js/lodash.js" ></script>
+<script type="text/javascript" src="js/jquery-2.1.1.js" ></script>
+<script type="text/javascript" src="js/raphael-min.js" ></script>
+<script type="text/javascript" src="js/g.raphael-min.js" ></script>
+
+<script>
+    window.onload = function () {
+    	var keys = {
+
+    	};
+        var r = Raphael("holder"),
+            fin = function () {
+                this.flag = r.popup(this.bar.x, this.bar.y, keys[this.bar.value] + "(" + this.bar.value + ")").insertBefore(this);
+            },
+            fout = function () {
+                this.flag.animate({opacity: 0}, 300, function () {this.remove();});
+            },
+            fin2 = function () {
+                this.flag = r.popup(this.bar.x, this.bar.y, this.bar.value - 0.1).insertBefore(this);
+            },
+            fout2 = function () {
+                this.flag.animate({opacity: 0}, 300, function () {this.remove();});
+            },
+
+            txtattr = { font: "12px sans-serif" };
+        
+        r.text(160, 10, "Games played per type").attr(txtattr);
+        $.getJSON('http://sot.meaglin.com/api.php?action=minigames', function(data) {
+        	console.log(data);
+        	if(!data.success) {
+        		return;
+        	}
+        	var values = [];
+        	_.each(data.data, function(record) {
+        		keys[parseInt(record.count, 10)] = record.type;
+        		values.push([parseInt(record.count, 10)]);
+        	});
+        	r.barchart(10, 10, 300, 220, values).hover(fin, fout);
+        });
+
+        r.text(450, 10, "Highest 50 zombie scores").attr(txtattr);
+        $.getJSON('http://sot.meaglin.com/api.php?action=zombies', function(data) {
+        	console.log(data);
+        	if(!data.success) {
+        		return;
+        	}
+        	var values = [];
+        	_.each(data.data, function(record) {
+        		if(!record || !record.score) {
+        			return;
+        		}
+        		values.push(parseInt(record.score, 10) + 0.1);
+        	});
+    	  	 r.barchart(320, 10, 300, 220, [values]).hover(fin2, fout2);
+        });
+
+    };
+</script>
+
+</head>
+
+<body>
+
+ <div id="holder"></div>
+
+
+</body>
+
+</html>

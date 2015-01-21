@@ -1,0 +1,531 @@
+ log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":2}
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"4","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":20}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":2}
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"4","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":2}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":1}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":5}
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":7}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":25}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":20}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"","score":100}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":21}
+log:create minigamescore {"id":"20","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":1}
+log:create minigamescore {"id":"20","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescore {"id":"","score":100}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"4","score":1}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"4","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":100}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"4","score":1}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":25}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":2}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":5}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":3}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":2}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":12}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":11}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescore {"id":"","score":null}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":12}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":11}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":12}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":11}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":22}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":12}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"5","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":12}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":23}
+log:create minigamescore {"id":"15","score":10}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":6}
+log:create minigamescore {"id":"15","score":12}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":1}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":12}
+log:create minigamescore {"id":"15","score":9}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":18}
+log:create minigamescore {"id":"15","score":13}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":1}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":11}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":10}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":16}
+log:create minigamescore {"id":"15","score":17}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":6}
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":0}
+log:create minigamescore {"id":"15","score":1}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"6","score":7}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":14}
+log:create minigamescore {"id":"15","score":18}
+log:create minigamescores 1 Array
+log:create minigamescore {"id":"19","score":19}
+log:create minigamescores 3 Array
+log:create minigamescore {"id":"15","score":4}
+log:create minigamescore {"id":"19","score":2}
+log:create minigamescore {"id":"6","score":12}
+log:create minigamescores 3 Array
+log:create minigamescore {"id":"15","score":11}
+log:create minigamescore {"id":"19","score":15}
+log:create minigamescore {"id":"6","score":10}
+log:create minigamescores 3 Array
+log:create minigamescore {"id":"15","score":7}
+log:create minigamescore {"id":"19","score":2}
+log:create minigamescore {"id":"6","score":11}
+log:create minigamescores 3 Array
+log:create minigamescore {"id":"15","score":4}
+log:create minigamescore {"id":"19","score":4}
+log:create minigamescore {"id":"6","score":99}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":16}
+log:create minigamescore {"id":"15","score":13}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":6}
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":13}
+log:create minigamescore {"id":"15","score":13}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":4}
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescores 2 Array
+log:create minigamescore {"id":"19","score":1}
+log:create minigamescore {"id":"15","score":0}
+log:create minigamescores 3 Array
+log:create minigamescore {"id":"19","score":2}
+log:create minigamescore {"id":"15","score":99}
+log:create minigamescore {"id":"6","score":2}
+log:create minigamescores 4 Array
+log:create minigamescore {"id":"19","score":7}
+log:create minigamescore {"id":"5","score":7}
+log:create minigamescore {"id":"23","score":1}
+log:create minigamescore {"id":"6","score":12}
+log:create minigamescores 4 Array
+log:create minigamescore {"id":"19","score":2}
+log:create minigamescore {"id":"5","score":4}
+log:create minigamescore {"id":"23","score":99}
+log:create minigamescore {"id":"6","score":6}
+log:create minigamescores 4 Array
+log:create minigamescore {"id":"19","score":14}
+log:create minigamescore {"id":"5","score":11}
+log:create minigamescore {"id":"23","score":5}
+log:create minigamescore {"id":"6","score":7}
+log:create minigamescores 4 Array
+log:create minigamescore {"id":"19","score":1}
+log:create minigamescore {"id":"5","score":0}
+log:create minigamescore {"id":"23","score":0}
+log:create minigamescore {"id":"6","score":0}
+log:create minigamescores 4 Array
+log:create minigamescore {"id":"19","score":6}
+log:create minigamescore {"id":"5","score":6}
+log:create minigamescore {"id":"23","score":3}
+log:create minigamescore {"id":"6","score":12}
+log:create gamescores 4 Array
+log:create gamescore {"id":"19","score":3}
+log:create gamescore {"id":"5","score":0}
+log:create gamescore {"id":"23","score":1}
+log:create gamescore {"id":"6","score":2}
+log:create minigamescores 4 Array
+log:create minigamescore {"id":"19","score":13}
+log:create minigamescore {"id":"5","score":10}
+log:create minigamescore {"id":"23","score":7}
+log:create minigamescore {"id":"6","score":4}
+log:create gamescores 3 Array
+log:create gamescore {"id":"19","score":0}
+log:create gamescore {"id":"6","score":1}
+log:create gamescore {"id":"20","score":0}
+log:create minigamescores 3 Array
+log:create minigamescore {"id":"19","score":11}
+log:create minigamescore {"id":"6","score":15}
+log:create minigamescore {"id":"20","score":10}
